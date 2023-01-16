@@ -4,6 +4,10 @@
 - feel free to contribute
 ---
 ### Do the blind 75 list no matter what happens!
+* it is a list of 75 questions which are most likely to appear in an interview and almost all other questions branch out from it. It also covers most of the important topics in DSA.
+* So while solving the list activley learn each concept related to it, apply it to the code and move on
+* Make sure to revist the question once in a while to get refresh your memory of it
+* Spend a lot of time understanding the question and then spend some more time understanding why the solution fits the question.
 ---
 
 #### Python isn't good enough?

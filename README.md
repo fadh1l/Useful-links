@@ -2,6 +2,7 @@
 - Most of my sources include hundreds of posts from reddit and medium, so really couldnt keep track of sources
 - **Use what you feel like is useful, otherwise drop it.**
 - feel free to contribute
+- leave star if it helped?
 ---
 ### Do the blind 75 list no matter what happens!
 * it is a list of 75 questions which are most likely to appear in an interview and almost all other questions branch out from it. It also covers most of the important topics in DSA.

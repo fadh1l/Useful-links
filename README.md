@@ -16,4 +16,9 @@ Website can keep track of progress, has video+text solutions/explanations and ev
 * OG blind 75 / Leetcode top 150 / 300+ good Leetcode qns
 https://neetcode.io/practice
 
+#### Interested in ML/DL?
+Please try out the fastai course by jeremy howard.
+Haven't found which is better than it to kickstart the ML rabbit hole.
+https://course.fast.ai/
+
 

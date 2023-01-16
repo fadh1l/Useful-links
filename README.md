@@ -18,7 +18,8 @@ https://neetcode.io/practice
 
 #### Interested in ML/DL?
 Please try out the fastai course by jeremy howard.
-Haven't found which is better than it to kickstart the ML rabbit hole.
+Haven't found anything better to push you down the ML rabbit hole.
+
 https://course.fast.ai/
 
 

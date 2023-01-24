@@ -49,5 +49,8 @@ https://course.fast.ai/
 https://github.com/fadh1l/Titanic-survivor-predictor
 * To use ML models in flask the key concept is pickling, google it and you'll figure out
 
-
+#### Videos from colin Galen
+- He is a cp programmer who has a pretty good global ranking
+* How to train your brain to get more creative for problem solving
+https://youtu.be/-jmxvq0rF9o
 
